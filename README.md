@@ -65,12 +65,13 @@ I designed, built, deployed and operate Scale Visibility solo: product scope, th
 
 ## Screenshots
 
-The app subdomain is `noindex` and everything past the front door is behind sign-in, so the public captures are the free-score intake and sign-in. Two captures of the companion marketing site show the free single-purpose tools that feed the app.
+Captured from the live app on my own workspace for scalevisibility.com (the app subdomain is `noindex`, and everything past the free score is behind sign-in).
 
 | | |
 |---|---|
-| ![Free score intake](screenshots/01-free-score.png) | ![Sign in](screenshots/02-sign-in.png) |
-| ![Companion site: free tools](screenshots/03-companion-site-free-tools.png) | ![Companion site: home](screenshots/04-companion-site-home.png) |
+| ![Free score intake](screenshots/01-free-score.png) | ![Audit report](screenshots/02-audit-report.png) |
+| ![Audit findings and pages crawled](screenshots/03-audit-findings.png) | ![AI citation check](screenshots/04-citation-check.png) |
+| ![Citation matrix by query and surface](screenshots/05-citation-matrix.png) | ![Share of voice trend and monitoring](screenshots/06-share-of-voice-monitoring.png) |
 
 ## Source and walkthrough
 
